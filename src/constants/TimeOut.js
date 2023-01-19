@@ -1,0 +1,15 @@
+export default {
+  timeOut: 'timeOut',
+  timeOutState: 'timeOutState',
+  currentScreen: 'currentScreen',
+  always: '300',
+  after_5_sec: '5000',
+  after_15_sec: '15000',
+  after_30_sec: '30000',
+  after_60_sec: '60000',
+  after_5_min: '300000',
+  after_10_min: '600000',
+  never: '',
+  time: 'time',
+  timeActive: 'timeActive',
+};
